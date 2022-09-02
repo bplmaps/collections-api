@@ -14,7 +14,7 @@ The following [Jupyter Notebooks](https://jupyter.org/about) provide example cod
 
 ### Using the notebooks
 
-To run these notebooks, simply go to [Binder's landing page](https://mybinder.org), copy-paste this repo's base URL `<https://github.com/itspangler/cogapp-hack-day>` into the appropriate input box, and click `Launch`.
+To run these notebooks, simply go to [Binder's landing page](https://mybinder.org), copy-paste this repo's base URL `<https://github.com/bplmaps/collections-api>` into the appropriate input box, and click `Launch`.
 
 ![binder](assets/binder.png)
 
