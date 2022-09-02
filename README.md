@@ -6,8 +6,11 @@ The over 11,000 items in our digital collections can be queried by a few differe
 
 ### Using the notebooks
 
-To run these notebooks in [Binder](https://mybinder.org), simply go to Binder's landing page and copy-paste this repo's base URL `<https://github.com/itspangler/cogapp-hack-day>` when prompted. You can also clone the repo and run the notebooks locally through something like [Anaconda](https://www.anaconda.com/).
+To run these notebooks, simply go to [Binder's landing page](https://mybinder.org), copy-paste this repo's base URL `<https://github.com/itspangler/cogapp-hack-day>` into the input box, and click `Launch`.
 
-- [Accessing collections via JSON API](/01_json-api.ipynb)
-- [Accessing collections via IIIF API](/02_iiif-api.ipynb)
-- [Accessing collections via a Python scraper](/03_scraper.ipynb)
+![binder](assets/binder.png)
+
+You can also clone the repo and run the notebooks locally through something like [Anaconda](https://www.anaconda.com/).
+
+#### [Accessing collections via JSON API](/01_json-api.ipynb)
+#### [Accessing collections via IIIF API](/02_iiif-api.ipynb)
